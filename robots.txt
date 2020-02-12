@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aipaeleejo.time-servers.net/sitemap.xml
